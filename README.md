@@ -1,1 +1,3 @@
-# MachineCommunication
+- Machine-to-machine communication
+- Machine-to-human communication
+- Within-machine communication
